@@ -1,8 +1,8 @@
 # 🐍 **DevSpace Python**
 
-[![Python application](https://github.com/diegoluisi/hello-python/actions/workflows/python-app.yml/badge.svg)](https://github.com/diegoluisi/hello-python/actions/workflows/python-app.yml)
-[![Docker Image CI](https://github.com/diegoluisi/devspace-python/actions/workflows/docker-image.yml/badge.svg)](https://github.com/diegoluisi/devspace-python/actions/workflows/docker-image.yml)
-[![CodeQL](https://github.com/diegoluisi/devspace-python/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/diegoluisi/devspace-python/actions/workflows/codeql-analysis.yml)
+[![Python application](https://github.com/vitor-savicki/hello-python/actions/workflows/python-app.yml/badge.svg)](https://github.com/vitor-savicki/hello-python/actions/workflows/python-app.yml)
+[![Docker Image CI](https://github.com/vitor-savicki/devspace-python/actions/workflows/docker-image.yml/badge.svg)](https://github.com/vitor-savicki/devspace-python/actions/workflows/docker-image.yml)
+[![CodeQL](https://github.com/vitor-savicki/devspace-python/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/vitor-savicki/devspace-python/actions/workflows/codeql-analysis.yml)
 
 ## ✅ **Goals**
  - Enabling Cloud Native Software Development
@@ -63,7 +63,7 @@ curl -s https://raw.githubusercontent.com/k3d-io/k3d/main/install.sh | bash
 ### *Clone the project*
 
 ```bash
-git clone git@github.com:diegoluisi/devspace-python.git
+git clone git@github.com:vitor-savicki/devspace-python.git
 ```
 
 ### *Create Cluster and NameSpace*
